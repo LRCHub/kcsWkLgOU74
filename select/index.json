@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ハッピーシンセサイザ (Cover)",
   "base_artist": "かぐや(cv.夏吉ゆうこ)",
-  "createdAt": "2026-03-12T16:04:32.339012Z",
+  "createdAt": "2026-03-19T15:22:41.328315Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "かぐや(cv.夏吉ゆうこ)",
       "has_synced": false,
       "path": "select/pl_01_ハッピーシンセサイザ_(Cover)_かぐや(cv.夏吉ゆうこ).txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ハッピーシンセサイザ (Cover)",
+      "artist": "かぐや(cv.夏吉ゆうこ)",
+      "has_synced": true,
+      "path": "select/localdb_01_ハッピーシンセサイザ_(Cover)_かぐや(cv.夏吉ゆうこ).lrc",
+      "repo_name": "bGtoL9aL-Z8"
     }
   ]
 }
